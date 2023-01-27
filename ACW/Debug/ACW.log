@@ -1,0 +1,43 @@
+﻿  Agent.cpp
+  Ball.cpp
+  Pipe.cpp
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\Pipe.cpp(15,19): warning C4305: '=': truncation from 'double' to 'float'
+  Floor.cpp
+  Camera.cpp
+  GameEntity.cpp
+  App.cpp
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(99,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(100,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(104,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(105,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(107,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(108,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(117,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(276,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(278,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\App.cpp(282,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GuiHelpers.cpp
+  RenderHelpers.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Tower.cpp
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\Tower.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\Tower.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\Tower.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\Tower.cpp(95,28): warning C4316: 'Ball': object allocated on the heap may not be aligned 16
+  World.cpp
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\World.cpp(17,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\World.cpp(18,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\World.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\World.cpp(159,24): warning C4018: '<': signed/unsigned mismatch
+D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\ACW\Source\World.cpp(237,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  ACW.vcxproj -> D:\MY PROJECTS\Hull Uni Projects\Simulation and AI\AI-Simulation-C-glm-\Debug\ACW.exe
